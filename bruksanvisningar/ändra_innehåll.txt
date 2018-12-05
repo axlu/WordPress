@@ -1,0 +1,13 @@
+Golfkurser
+
+För att ändra innehåll med "Egna fält"
+
+1. Logga in som admin eller editor.
+
+2. Besök den sida du vill redigera.
+
+3. Klicka högst upp på "Redigera sida".
+
+4. Scrolla ned till det fält du vill ändra.
+
+5. Gör din ändring och klicka på uppdatera i högra sidomenyn.

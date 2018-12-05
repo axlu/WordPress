@@ -1,0 +1,52 @@
+Golfkurser
+
+För att göra en backup
+_________________
+
+1. Logga in.
+
+2. Håll muspekaren över "All-in-One WP Migration" i panelen.
+
+3. Välj "backup" eller "säkerhetskopieringar".
+
+4. Klicka på "Skapa Säkerhetskopiering".
+
+5. Klicka på "Exportera till" -> "Fil".
+
+6. Vänta tills det har laddat klart. 
+
+7. Klicka på den gröna "Download wp1.bgruppen.se"
+
+8. Nu har du sparat en backup lokalt.
+
+---------------------------------------------------------------
+
+För att importera
+_________________
+
+1. Håll muspekaren över "All-in-One WP Migration" i panelen.
+
+2. Välj importera.
+
+3. Klicka på "Importera från" -> "Fil".
+
+4. Leta reda på din fil och välj den.
+
+---------------------------------------------------------------
+
+För att flytta hela webbplatsen till en annan domän
+_________________
+
+1. Aktivera en ny WordPress-sida på en annan domän.
+
+2. Gå till "Tillägg" i panelen.
+
+3. Installera "All-in-One WP Migration".
+
+4. Gå till "Importera" när tillägget har installerats och aktiverats.
+
+5. Välj vart ifrån du ska hämta din fil. Om du exempelvis har den på ett USB,
+Lägg in filen på datorn och leta sedan reda på den och ladda upp den. 
+
+Blir du osäker kan du titta på videoklippet nedan för att få en visuell beskrivning.
+https://www.youtube.com/watch?v=T5kRgBzg61Q

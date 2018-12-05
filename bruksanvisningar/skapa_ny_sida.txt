@@ -1,0 +1,21 @@
+Golfkurser
+
+För att skapa en ny sida:
+
+1. Logga in med sysadmin
+
+2. från panelen klickar du på "Sidor".
+
+3. Klicka på "Skapa ny", högst upp på sidan.
+
+4. Ange ett namn som kommer att visas i menyn, tänk på att skriva med stora bokstäver.
+
+5. I sidomenyn till höger under "Mall" kan du välja "En kolumn", "Två kolumn" eller "Tre kolumn". Välj och klicka på publicera.
+
+6. Från panelen klickar du på "Egna fält".
+
+7. Beroende på vilken mall du har valt (en kolumn, två...), gå in på one-col för en kolumn, two-col för två eller three-col för tre.
+
+8. Under titeln "Plats" finns "Visa detta fält när", där väljer du "Sida" och sedan "är lika med" -> välj din nya sidas namn.
+
+9. Klart att användas.
